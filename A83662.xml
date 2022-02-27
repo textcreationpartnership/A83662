@@ -1,0 +1,628 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The debates in the House of Commons assembled at Oxford March the 21st. 1680.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 97 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83662</idno>
+            <idno type="STC">Wing E2546A</idno>
+            <idno type="STC">ESTC R212952</idno>
+            <idno type="EEBO-CITATION">47683428</idno>
+            <idno type="OCLC">ocm 47683428</idno>
+            <idno type="VID">172894</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83662)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172894)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2655:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The debates in the House of Commons assembled at Oxford March the 21st. 1680.</title>
+                  <author>England and Wales. House of Commons.</author>
+               </titleStmt>
+               <extent>28 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Dublin :</pubPlace>
+                  <date>Reprinted 1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  House of Commons</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Great Britain --  Politics and government --  1660-2688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172894:1"/>
+            <p>THE DEBATES IN THE Houſe of Commons Aſſembled at OXFORD March the 21ſt. 1680.</p>
+            <p>Reprinted 1681</p>
+         </div>
+      </front>
+      <body>
+         <div type="debates">
+            <pb facs="tcp:172894:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:172894:2"/>
+            <head>THE DEBATES In the Houſe of Commons aſſembled at OXFORD <hi>March the</hi> 21ſt. 1680.</head>
+            <head type="sub">The three firſt days being ſpent in choſing their ſpeaker, the con<g ref="char:EOLhyphen"/>firming of him, and taking the Oaths as the Law directs; On <hi>Thurſday</hi> the 24th. of <hi>March</hi> 1680. <hi>They began thus.</hi>
+            </head>
+            <div type="days_proceedings">
+               <head>
+                  <hi>Thurſday March the</hi> 24th. 1680.</head>
+               <sp>
+                  <speaker>Sir J. H.</speaker>
+                  <p>MR. <hi>Speaker,</hi> What I am about to Move, concerns us all. The laſt Parliament when you was moved to Print your Votes, it was for the Security of the Nation, and you found it ſo,. It prevented ill Repreſentations of us to the world, by falſe Co<g ref="char:EOLhyphen"/>pies of our Votes, and none doubted your Honour in the care of it. And I am confident that this Houſe will be no more aſhamed of their Actions than the laſt was. Printing our Vote will be for the Honour of the King, and the ſafety of the Nation. I am confident if it had been neceſſary you would have had Petitions from the parts I come from, that your Actions might be made publick. As I came hither, every body al<g ref="char:EOLhyphen"/>moſt that I met upon the Road, cryed, God bleſs you in what you are going about. I Move therefore, that your Votes may be Ordered forthwith to be Printed, with the reſt of your Proceedings; and <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſhall onely add, that your ſelf has done ſo well in taking that care up<g ref="char:EOLhyphen"/>on you the laſt Parliament, that the Houſe will deſire you to conti<g ref="char:EOLhyphen"/>nue them in the ſame Method.</p>
+               </sp>
+               <sp>
+                  <pb n="4" facs="tcp:172894:3"/>
+                  <speaker>Sir W. C.</speaker>
+                  <p>That which put me upon Moving the Printing your Votes the laſt Parliament, was falſe Copies that went about in former Parliaments, of the Votes and Tranſactions of the Houſe. Let men think what they pleaſe, the weight of <hi>England</hi> is the people: and the more they know, the heavier will it be: and I could wiſh ſome would be ſo wiſe as to conſider that this weight hath ſunk ill Miniſters of State (almoſt) in all Ages; and I do not in the leaſt doubt but it will do ſo to thoſe who are the Enemies of our Religion and Liberties. And the world will find the honeſt Commons of <hi>England</hi> will ſink Popery at laſt, therefore I ſecond the Motion.</p>
+               </sp>
+               <sp>
+                  <speaker>Sec. J.</speaker>
+                  <p>I beg pardon if I conſent not to the motion of Printing the Votes, <hi>&amp;c.</hi> conſider the Gravity of this Aſſembly. There is no great Aſſembly in Chriſtendom does it. 'Tis againſt the gravity of this Aſſembly, and 'tis a ſort of Appeal to the people. 'Tis againſt your gravity, and I am againſt it.</p>
+               </sp>
+               <sp>
+                  <speaker>H. B.</speaker>
+                  <p>If you had been a Privy-Council, then 'twere fit what you do ſhould be kept ſecret, Your Journal Books are open, and Copies of your Votes in every Coffeehouſe; and if you Print them not, half Votes will be diſperſed to your prejudice. This Printing, <hi>&amp;c.</hi> is like plain <hi>Engliſh-men,</hi> who are not aſham'd of what they do; and the people whom you repreſent will have a true account of what you do, you may prevent the publiſhing what parts of the Tranſactions you pleaſe, and Print the reſt.</p>
+               </sp>
+               <sp>
+                  <speaker>L: G:</speaker>
+                  <p>I find that thoſe who write out the Votes and Tranſactions and ſend them all <hi>England</hi> over, are favoured; and I believe no Gen<g ref="char:EOLhyphen"/>tleman in the Houſe will be againſt Printing them but the Secretary. I hope you will not have reaſon to be aſham'd of what you do, there<g ref="char:EOLhyphen"/>fore I am for Printing, <hi>&amp;c.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Col: M.</speaker>
+                  <p>By experience we have found, that when former Parlia<g ref="char:EOLhyphen"/>ments have been Prorogued or Diſſolved, they have been ſent away with a Declaration againſt their proceedings. If our Actions be nought, let the world judge of them; if they be good, let them have their virtue. 'Tis fit that all Chriſtendom ſhould have notice of what
+<pb n="5" facs="tcp:172894:3"/>you do, and poſterity what you have done, and I hope they will do as you do, therefore I am for printing, <hi>&amp;c.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sir F: W:</speaker>
+                  <p>What has been ſaid by the Secretary is a ſingle opinion, (for he ſays that printing the Votes is an Appeal to the people) I hope the Houſe will take notice, that printing the Votes is not againſt Law. But pray who ſent us hither? The Privi-Council is conſtituted by the King, but the Houſe of Commons is by the choice of the peo<g ref="char:EOLhyphen"/>ple. I think it not natural nor rational, that the people who ſent us hither, ſhould not be informed of our Actions. In the Long Par<g ref="char:EOLhyphen"/>liament it was a Trade amongſt Clerks to write the Votes and diſpers them, and were queſtioned for it there; but 'twas then ſaid by a Learned Gentleman, that 'twas no offence to inform the people of the Votes of Parliament, the Journal Books being open, and the peo<g ref="char:EOLhyphen"/>ple ought to have notice of them. The Long Parliament were wiſe in their generation, to conceal many things they did from the peo<g ref="char:EOLhyphen"/>ple, and yet the Clerk was ſent away, (who diſperſed the Votes) and had nothing done to him. The Popiſh party dread nothing more than Printing what you do, and I dread a man in the Secretaries poſt and ſuch an accuſation as was upon him in the laſt Parliament, that he ſhould hold ſuch a poſition, that printing the Votes is an Appeal to the people. <hi>Vide the Printed Vote of this day.</hi>
+                  </p>
+                  <p>
+                     <hi>A Motion was made to inquire into the Miſcarriage of the Bill for Repeal of</hi> 35 <hi>Eliz.</hi> &amp;c.</p>
+               </sp>
+               <sp>
+                  <speaker>R. H.</speaker>
+                  <p>I think the Motion is to inquire after the ſlipping of that Act the laſt Parliament, and not preſenting it for the Royal aſſent. For my own part, I look upon it as a breach of the conſtitution of the Government. We are told that we are Republicans, and would change the Government, but ſuch as are about to do ſo, 'tis a natural fear in them to be thought ſo, and they will caſt it upon others. In a crowd 'tis frequent for pickpockets to cry out, Gentlemen have a care of your pockets that they may more ſecurely do it themſelves, and have the leſs ſuſpition upon them. I will not offer this great thing to the conſideration to day, but Move you to Adjourn it till to morrow.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir F. W.</speaker>
+                  <p>I ſhall humbly put in this word. I doubt this matter
+<pb n="6" facs="tcp:172894:4"/>will be too big to be debated to day, 'tis of great importance, and will not be forgotten; be pleaſed to Adjourn the Debate, <hi>&amp;c.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sir N. C.</speaker>
+                  <p>I humbly Move, that for the preſervation of the Prote<g ref="char:EOLhyphen"/>ſtant Religion, and the Kings Perſon, a Bill be brought in to prevent a Popiſh Succeſſor, and in particular againſt <hi>James</hi> Duke of <hi>York,</hi> the ſame Bill which paſt the laſt Parliament.</p>
+               </sp>
+               <sp>
+                  <speaker>Sec. J.</speaker>
+                  <p>You are upon riſing, and I ſhall not detain you long. I muſt give my Negative to this motion, and my reaſon why I do ſo, is becauſe the King hath declared in his Speech, that as to the point of altering the Succeſſion, he cannot depart from what he has ſo often declared. The King has given his Vote againſt it, therefore I muſt do ſo to.</p>
+               </sp>
+               <sp>
+                  <speaker>L. G.</speaker>
+                  <p>The D. of <hi>York</hi> is in <hi>Scotland,</hi> and I hope the King will come up to what he has ſaid in his Speech. My Liberty and Property is dear to me, and I'le ſupport the K's Prerogative too; and I hope we ſhall remove thoſe people, Briars and Thorns who ſcratch you in your intentions againſt Popery,; which I ſee we cannot prevent without this Bill to exclude the Duke <hi>&amp;c.</hi> And therefore I am for it.</p>
+               </sp>
+               <sp>
+                  <speaker>Col, B.</speaker>
+                  <p>I am heartily glad to find that the Zeal of the Houſe ſtill continues for the preſervation of the Proteſtant Religion. My Op<g ref="char:EOLhyphen"/>nion is, that we cannot preſerve the Proteſtant Religion with a Po<g ref="char:EOLhyphen"/>piſh Succeſſour to the Crown, no more than Water can be kept cold in the hot Pot; but I would do it in all the decent ways to come at it. The King recommends to you in his Speech, to look back to what he formerly ſaid as to the Succeſſion, &amp;c. If there be no other way to prevent Popery, but a Bill to Exclude the D. <hi>&amp;c.</hi> from the Succeſſion, <hi>&amp;c.</hi> my Opinion is, That 'twill be more decent to our Prince, and better for thoſe who ſent us hither, that before the Bill be brought in, to give it the honour of a day, to conſider of the Expedients to ſave Religion under a Popiſh Succeſſor; For that I ſhall expect from ſome Honourable Perſons: but if none come, then you may proceed to this Bill with more honour. Therefore I move to appoint a day to conſider of it.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir J. E.</speaker>
+                  <p>I ſhould not have troubled you, but from what was ſpoke
+<pb n="7" facs="tcp:172894:4"/>laſt. By all means juſt and lawful, we are to ſecure our Religion and properties: We ſee the great attempts made upon us from <hi>Rome,</hi> and we muſt do ſomething for our farther ſecurity. I will not ſpeak of the former Bill of Excluding the D. <hi>&amp;c.</hi> nor of the K.'s Speech, that gives you latitude for Expedients; and I would not offer any, if I thought they would not do as well as that Bill, which is but an Ex<g ref="char:EOLhyphen"/>pedient. But becauſe the K. has declared againſt that Bill, and invited you to Expedients, I would not put that Bill any more to the hazard of rejection, but think of ſome Expedients.</p>
+               </sp>
+               <sp>
+                  <speaker>W. H.</speaker>
+                  <p>I can ſee no Expedient to ſave Religion and preſerve the K's perſon, but the Bill to Exclude the D. <hi>&amp;c.</hi> All Gentlemen I believe would be willing as to the Manner and ſave the Matter: But when our Prince is encompaſſed (all) with the D.'s Creatures, the D.'s ſafety is becauſe of their dependencies: The danger is not from Pope<g ref="char:EOLhyphen"/>ry, but from the King's being encompaſſed with the D.'s Creatures. I would proceed in this matter with all decency; and ſince a day is moved for, pray let's have time to conſider.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir. C. M.</speaker>
+                  <p>You are invited by the K.'s gracious Motion to con<g ref="char:EOLhyphen"/>ſider how to preſerve Religion <hi>&amp;c.</hi> I deſire we may not now put a queſtion for bringing in a Bill to ſeclude the D. <hi>&amp;c.</hi> elſe properly we cannot conſider any Expedients for preſervation of Religion.</p>
+               </sp>
+               <sp>
+                  <speaker>B. W.</speaker>
+                  <p>The conſideration of the preſervation of the Proteſtant Re<g ref="char:EOLhyphen"/>ligion, is of that weight, that though we have ſhew'd our zeal to it, yet I would not run upon a thing of this great nature, without conſi<g ref="char:EOLhyphen"/>deration. They who adviſed the K's Speech, muſt anſwer for it, The words of the Speech are, <hi>If any other way can be found out,</hi> &amp;c. <hi>Vide</hi> I think thoſe about the King have don enough to ruine Him and Us: But I would have the K. ſee we are ſo far from putting him up<g ref="char:EOLhyphen"/>on that ſtreſs, that we would help him out. I think that Speech the K. read to us, to have nothing of the King's in it; He is a better man, and a better Proteſtant, than to do it of himſelf: therefore I would not put our Reſolution as flat and as ſhort as that is in the King's Speech The King has gon as far as this Reſolution in his Speech comes to, in his Declaration about Diſſenters formerly: and yet from
+<pb n="8" facs="tcp:172894:5"/>the Reaſons from hence, he was perſwaded to revoke it. If perſons have been ſo prevalent as to put the King upon this Speech, let me ſee thoſe perſons ſo forward to bring the King into a thing to help him out; if they do not, I hope the King will lay the blame at their doors, and not at ours. If they could have told us what Expedients were neceſſary, they would have put them into the King's Speech, and the Reſolution-part of not altering the Succeſſion would have been left out. A little conſideration of this great matter, can do us no hurt, and will ſatisfie the people without doors. But if they about the K. can find out no Expedients, I hope he will lay them aſide, and take their counſel no more. Put not off this Conſideration farther than <hi>Sa<g ref="char:EOLhyphen"/>turday;</hi> and if they can find us out an Expedient betwixt this and then, 'tis very well.</p>
+               </sp>
+               <sp>
+                  <speaker>H. P.</speaker>
+                  <p>I have always obſerved, that the moſt deliberate Proceed<g ref="char:EOLhyphen"/>ings have had the beſt ſucceſs here, and the beſt reputation abroad.</p>
+                  <p>I am as willing as any man to come to this moved for, but with deliberate ſteps. For my ſhare, though I hear of Expedients abroad, yet I cannot conceive that a Title or name can deſtroy the nature of Expedients. But the King in his Speech has held you out a Handle <hi>(vide)</hi> And I would not give thoſe about the Kings occaſion to ſay, that this Houſe running into a Breach with him. I would pay the King all the Reſpect in the world, and you cannot avoid ſetting apart a time to conſider Expedients; and I would not mix any thing with the Debate that day. I think to morrow is too ſoon to debate it: I ſhall propoſe <hi>Saturday</hi> for the Conſideration; and then let us do what's fit in ſo weighty a matter.</p>
+               </sp>
+               <sp>
+                  <speaker>R. H.</speaker>
+                  <p>This is a matter of great weight, and I would adjourn it to to morrow. For the reaſon of propoſing Expedients, I do not move to <hi>Adjourn</hi> for that; for it 'tis as little reaſon to me to expect any, as 'twas the laſt Parliament, That Parliament gave reaſons why no Expedients could be of any effect, but this Bill of Excluſion; and that Parliament ſaw enough of Expedients. There are a great many talked of abroad in the ſtreets, and won't you hear Expedients? What can a man ſay leſs with any modeſty? But no man can ſay but
+<pb n="9" facs="tcp:172894:5"/>we are in danger of loſing our Religion, if the D. ſhould come to the Crown. But the Queſtion before you is, Whether you'le put off this Debate? Therefore I move that the Houſe will take into Debate the ſecurity of the Proteſtant Religion to morrow.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir F. W.</speaker>
+                  <p>All that I ſhall propoſe is, That you would ſo word the Queſtion as to have no diminution to the Motion made for the Bill <hi>&amp;c.</hi> upon your Books, nor prejudice, nor reflection, When this Bill paſt the laſt Parliament, it was <hi>Nemine Contradicente;</hi> and moſt of this Parliament were of the laſt. For Expedients, 'tis a word migh<g ref="char:EOLhyphen"/>tily uſed and talked of, and willingly embraced; but none have been propoſed. Let this matter be reaſſumed on <hi>Saturday</hi>-morning, and ſo taken into conſideration to ſecure the Proteſtant Religion; and not to let appear upon your Books any thing relating to Expedients or pre<g ref="char:EOLhyphen"/>venting a Popiſh Succeſſour.</p>
+               </sp>
+               <sp>
+                  <speaker>J. T.</speaker>
+                  <p>I was much ſurprized at the K.'s Speech, conſidering your weighty Reaſons for the Bill, <hi>&amp;c.</hi> the laſt Parliament; and that the Lords found out no Expedients for preſervation of Religion, and yet threw out the Bill. But that the K. may ſee that what we do, is out of real ſenſe of the danger we are in from a popiſh Succeſſor, and not in contradiction to him; and when nothing is found out to ſave us, we may juſtifie our ſelves in what we do, I am for adjourning the Debate. <hi>Vote, vide the Print.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div type="days_proceedings">
+               <head>
+                  <hi>Friday, March</hi> 25. 1681. <hi>Thanks moved for free Choice of Members.</hi>
+               </head>
+               <sp>
+                  <speaker>J. S.</speaker>
+                  <p>WHen there has been a general Corruption, and all have not done their duty, you ſhould diſtinguiſh and give thanks to them that have; and formerly you have done to Officers for doing their duty in ſuppreſſion of Popery, when through the corruption of the times ſome have not done their duty. Nothing is more Parliamentary than to return Thanks to thoſe who have freely and without expence choſen you Members; and I deſire that the Members ſo elected may be ordered to ſend their Thanks to thoſe who choſe them. <hi>Vide the Vote in the Print.</hi>
+                  </p>
+               </sp>
+               <stage>
+                  <hi>The loſs of the Bill for repeal of</hi> 35 Eliz: <hi>moved.</hi>
+               </stage>
+               <sp>
+                  <speaker>Sir W: J:</speaker>
+                  <p>This matter deſerves material conſideration, whether in reſpect of the loſs of the Bill, or the ſhaking of the very Conſtitution
+<pb n="10" facs="tcp:172894:6"/>of Parliament. The Bill that is loſt is of great moment, and of great ſervice to the Country, and perhaps to their lives in the time of a Popiſh Succeſſor. Thoſe men that hindred the paſſing that Bill had a proſpect of that; and if it be ſent up again, we are like to meet with great oppoſition. But be the Bill what it will, the preſident is of the higheſt conſequence; The King has his Negative to all Bills; but I ne<g ref="char:EOLhyphen"/>ver knew that the Clerk of the Parliament had a Negative, if he laid it aſide or not. But conſider, if we ſend up many good Bills, if this be not ſearched into, we may be deprived of them. No man that knows Law or Hiſtory, but can tell that to Bills Grateful and popular the K. gives his conſent to them—But if this way be found out, that Bills ſhould be thrown by, it may be hereafter ſaid, they were forgot and laid by, and ſo we ſhall never know whether the K. would paſs them or no. if this be ſuffered, 'tis in vain to ſpend time here; and 'twill be a great matter to find time to redreſs it. I move therefore, that a Meſ<g ref="char:EOLhyphen"/>ſage be ſent to the Lords for a Conference, that ſome way may be found out to give us ſatisfaction in this great matter.</p>
+               </sp>
+               <sp>
+                  <speaker>H. B.</speaker>
+                  <p>I do concur with the Gentleman ſpoke laſt, that Parliaments are Prorogued and Diſſolved by the King, and now here is a new way found out to fruſtrate Bills. The K. cannot take one part of a Bill, and reject another, but gives a direct anſwer to the whole. But to avoid that, this Bill was never preſented to the K. a thing never done before I deſire we may ſend to the Lords for a Conference, to repreſent this Innovation, and that a Committee be appointed to draw up Reaſons for the Managers.</p>
+               </sp>
+               <sp>
+                  <speaker>W. G.</speaker>
+                  <p>I was a freind to this Bill, and I agree in all things concern<g ref="char:EOLhyphen"/>ing the weight of it. The laying this Bill aſide, is ſuch a breach of the Conſtitution of Parliament, that 'tis in vain to paſs any Bill if this miſ<g ref="char:EOLhyphen"/>carriage be not ſearched into. By the conſtitution of Parliaments, all Bills but Money-Bills, after they are paſt both Houſes, are depoſited in the Lords hands; 'tis below you to look after the Clerks for this Bill. If the Lords give you no anſwer for the loſs of this Bill, that is ſatis<g ref="char:EOLhyphen"/>factory; I would then ſend to them to know a Reaſon why the Bill was not tendred to His Majeſty with the other Bills.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir R. H.</speaker>
+                  <p>I would have you ſearch the Lords Journals, and if you and no account of the Bill there, then 'twill be time for us to go to the
+<pb n="11" facs="tcp:172894:6"/>Lords to require ſatisfaction.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir R: T:</speaker>
+                  <p>I have not much to offer you, but I fully concur in the weight and conſequence of this matter, and you are to take all the care you can to ſecure it for the future. Never any thing of this nature was done before, but the Bill for obſervation of the Lords day in the late long Parliament. 'Twas left upon the Table at a conference, and ſto<g ref="char:EOLhyphen"/>len away. But 'tis not proper (I conceive) to take notice of this in a Meſſage to the Lords, becauſe the miſcarriage of this Bill was in another Parliament. The matter muſt go upon the deſire of a Conference with the Lords, concerning the Rights and Priviledges of both Houſes of Parliament; and then you may appoint a Committee to inform you of the progreſs of this matter.</p>
+               </sp>
+               <sp>
+                  <speaker>E. V.</speaker>
+                  <p>I think the paſſing over the inquiry after the loſs of the Bill of the Sabbath, in the late long Parliament, was the great occaſion of the loſs of this. Conſider how many interruptions Parliaments have had of late in the greateſt buſineſs, by Prorogations and Diſſolutions; and another way to gratifie your Enemies, is to ſtifle your Laws, when they have a mind the people ſhould have no benefit of them, though they have paſſed both Houſes. Therefore I Move, <hi>&amp;c. ut ante.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sir H. C.</speaker>
+                  <p>I differ only as to the words. I agree to a Conference, but no more to be ſaid, then to know what's become of the Bill; for the Lords are the Depoſitories of all Bills but money. Without any o<g ref="char:EOLhyphen"/>ther words I would ſend the Lords for a conference, to know what's become of the Bill. I know but of three Negatives, but by this proceeding here is a fourth Negative, which may deſtroy the Govern<g ref="char:EOLhyphen"/>ment.</p>
+               </sp>
+               <sp>
+                  <speaker>S. T.</speaker>
+                  <p>'Tis the beſt way in this matter to obſerve old methods; and the beſt method to know the Lords minds, is by Conference, I re<g ref="char:EOLhyphen"/>member in the late long Parliament, the Lords ſent to us for a Confe<g ref="char:EOLhyphen"/>rence, and at it told, the Roof of our Houſe was falling on our heads; but they ſent us not a meſſage of the danger we were in by the falling of the Roof but deſired a conference about a matter of great conſequence. Therefore I would now ſend to the Lords for a Conference of matters relating to the Nation.</p>
+               </sp>
+               <sp>
+                  <speaker>R. H.</speaker>
+                  <p>I would ſay this, We deſire a Conference with the Lords concerning the Conſtitution of Parliaments in matters relating to paſ<g ref="char:EOLhyphen"/>ſing
+<pb n="12" facs="tcp:172894:7"/>of Bils. <hi>Vide Printed vote.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sir T. L.</speaker>
+                  <p>This is a thing of as high weight as we can confer upon. Therefore I would not do leſs than in a thing of leſſer moment. Let a Committee meet, and then agree of the ſubject matter, till then you know not what to ſay at the Conference; and 'twill be Munday at the ſooneſt before you can do it. I ſhall offer another thing at the Confe<g ref="char:EOLhyphen"/>rence; I would offer the Lords the conſequence of this way of pro<g ref="char:EOLhyphen"/>ceeding, and to deſire the Lords to put the thing into a way of Examina<g ref="char:EOLhyphen"/>tion, that the Complices may be fit for puniſhment: And at the ſame Conference, would deſire a Committee of both Houſes to conſider where the Miſcarraige lay.</p>
+               </sp>
+               <stage>Danby's <hi>Caſe Reported,</hi> &amp;c. <hi>The Account of</hi> Fitzharris, <hi>and the Li<g ref="char:EOLhyphen"/>bel read,</hi> &amp;c. Treby's <hi>Examination,</hi> &amp;c.</stage>
+               <sp>
+                  <speaker>Sir J. H</speaker>
+                  <p>I humbly move <hi>Fitzharris</hi>'s Examination may be print<g ref="char:EOLhyphen"/>ed, for the world to ſee the Deviliſh Conſpiracies of the Papiſts.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir W. J.</speaker>
+                  <p>I like the motion for Printing; nothing is in this paper but what's fit to be printed. It fully makes out thoſe Informations you have had before. And becauſe we all know that ſince my Lord <hi>Staffords</hi> Tryal, people have been prevailed upon to believe the Plot not true, and this confirms <hi>Oates</hi> and <hi>Bedloes</hi> Informations, I would have them Printed, but not the Libellous paper which reflects upon the King.</p>
+               </sp>
+               <sp>
+                  <speaker>Sec J.</speaker>
+                  <p>I will not trouble you but with that part I had in this affair. The Paper was read over to the King by Sir <hi>William Waller.</hi> There<g ref="char:EOLhyphen"/>fore according to the Kings Command, I iſſued out a Warrant for apprehending <hi>Fitzharris,</hi> and Sir <hi>W. Waller</hi> was to take care of the execution of the Warrant.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir E. W.</speaker>
+                  <p>This is a matter of great Importance, and we ought to acquit our ſelves in it like wiſe men. We that come out of the Coun<g ref="char:EOLhyphen"/>trey hear, that that Treaſonable Paper which has been read by Sir <hi>W. Waller,</hi> was to have been ſent to many Gentlemen, they to have been ſeized thereupon; as Traytors in the Conſpiracy; it may be this was that new Plot. All we have is at the ſtake, therefore how long or ſhort our ſitting is like to be here (the Trooper <hi>Harri<g ref="char:EOLhyphen"/>ſon</hi> ſaid there would be other Guards at <hi>Oxford</hi>) let not our courage leſſen. This being our caſe, let us go to the bottom of this buſineſs
+<pb n="13" facs="tcp:172894:7"/>of <hi>Fitzharris.</hi> Therefore I Move, he may be ſent for and Impeach<g ref="char:EOLhyphen"/>ed. We know by experience, when once an Accuſation is in Parli<g ref="char:EOLhyphen"/>ament on Record, and in the greateſt Court of the Kingdom made known, Malefactors have not been cleared, and you have had Juſtice; therefore I would have care taken that this Man be Impeached of High-Treaſon, and it may be he will relent and tell you all.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir R. C.</speaker>
+                  <p>When <hi>Fitzharris</hi> Examination was taken at <hi>Newgate,</hi> he asked whether he had ſaid enough to ſave his life. I told him, I thought he had not dealt ingeniouſly, unleſs he would tell what Councel he had for Drawing and Modelling the paper; and I bid him be ingenuous in the whole matter, and I would come and take his farther Examination. But the next day after he promiſed this, he was removed out of our reach into the <hi>Tower. Impeachment Orde<g ref="char:EOLhyphen"/>red,</hi> vide <hi>in the Print.</hi>
+                  </p>
+               </sp>
+               <stage>
+                  <hi>'Twas moved that Secretary</hi> Jen. <hi>ſhould carry up the Impeachment to the Lords.</hi>
+               </stage>
+               <sp>
+                  <speaker>Sec J.</speaker>
+                  <p>The ſending me, upon this Meſſage, <hi>&amp;c:</hi> reflects upon the King my Maſter; and do what you will with me, I will not go. <hi>Many called, to the Bar, to the Bar.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>See T. L.</speaker>
+                  <p>I would not have ſaid one word, but that the very be<g ref="char:EOLhyphen"/>ing of Parliament is in the caſe. 'Tis to no end to ſit here any longer if this be ſuffered. There can be no ground, reaſon, or thought, to bring the King in queſtion, or reflection upon him in this Impeachment or on the Secretary. But for him to ſay, do what you will with me, I will not go with the Impeachment, is what I never heard ſaid in Parli<g ref="char:EOLhyphen"/>ament before. Let the words fell from him be written down before he explain them, according to the Order of the Houſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir G. H.</speaker>
+                  <p>I never heard ſuch words before, that the whole Houſe of Commons ſhould reflect upon the King and that he will not obey your Order; let the words be written down.</p>
+               </sp>
+               <sp>
+                  <speaker>J. T.</speaker>
+                  <p>The Houſe will be contemptible to the extreameſt degree if this be ſuffered. Such a thing as never was in Parliament before, that the whole Houſe ſhould reflect on the King, and for him to ſay do what you will, I will not go. Moves <hi>ut ante.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sec J.</speaker>
+                  <p>I ſaid no ſuch thing, that the Houſe reflected on the King, but that I take it as a reflection upon the King my Maſter.</p>
+               </sp>
+               <sp>
+                  <pb n="14" facs="tcp:172894:8"/>
+                  <speaker>J. T.</speaker>
+                  <p>His words were, This had not been put upon me, but for the Character I bear.</p>
+               </sp>
+               <stage>At laſt the Secretaries words were thus ſtated, This Meſſage is put upon me for the Character I bear. I value not my Life nor Liber<g ref="char:EOLhyphen"/>ty, do what you will, I will not go.</stage>
+               <sp>
+                  <speaker>Sec J.</speaker>
+                  <p>I ſay this is put upon me; to my apprehenſion, for the Character I bear, and do what you will with me I will not go.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir W. J.</speaker>
+                  <p>I am ſorry to ſee any Member behave himſelf at this rate. This Deportment confirms me in the opinion of the deſign of ſome men, to ſuppreſs the Honour of this houſe; There has been a Book written (which I hope in time it will be inquired after) That the Houſe of Commons ſprang firſt out of Rebellion in <hi>H.</hi> 3. time. This goes on this day in the ſame method. Let a man be of what quality he will, if he be too big to be your Member, he is not to be cho<g ref="char:EOLhyphen"/>ſen. To ſcorn the Commands of the Houſe, and to be too big to be a Meſſenger of the Houſe of Commons! Secretaries are ſent of Meſ<g ref="char:EOLhyphen"/>ſages every day, and is he too big a Meſſenger to accuſe a perſon of the Popiſh Plot? His words ſeem to import, as if the King would not have the proſecution of the Plot. If this be ſo, ſit no longer here, but go home. His Character is great, and he may be privy to things hid from us, by this extraordinary carriage. Are we come to that paſs, to be dealt withal, as none of our Predeceſſours ever were? If my Brother or Son dealt with the Houſe thus, I would call him to ac<g ref="char:EOLhyphen"/>count. For ought I ſee, he provokes the Houſe more by his Explana<g ref="char:EOLhyphen"/>tion, therefore pray go on.</p>
+               </sp>
+               <sp>
+                  <speaker>Sec J.</speaker>
+                  <p>I am as ready, and think my ſelf as much obliged to obey the Commands of the Houſe, as any man here. The Office I have excludes me not from it; but the thing I ſtand upon is, that the Mo<g ref="char:EOLhyphen"/>tion was carried on in Ridicule. I have an Honour for this, and ever had for all Houſes of Commons; but in this Meſſage I muſt and will be excuſed.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir H. C.</speaker>
+                  <p>Ridicule is not a word proper for a Houſe of Commons; and what is appointed by this Houſe, is done with all gravity, eſpe<g ref="char:EOLhyphen"/>cially where the life of a man is concerned. We are in an unfortunate Age, now things come to more light than before, that it ſhould be ſaid that Impeachments ſtrike at the King, that the Dukes Bill, <hi>&amp;c.</hi> is ai<g ref="char:EOLhyphen"/>med
+<pb n="15" facs="tcp:172894:8"/>at the King: I am ſorry to hear it ſaid here, as well as in other places. This Imployment he is put upon, is for the Kings ſervice, and he tells you it reflects upon the King. All is reverſed, if what the Commons do; muſt be as if it reflects upon the King. I have all imaginable reſpect to the King: but Sir, we are in a Ship, and we have to do with the Maſter, and he with us. If this Gentleman would make any ſort of excuſe, I would willingly accept it; but he has not yet taken off his Crime, but rather aggravated it. If he have nothing farther to ſay, he muſt withdraw, and then you'l have a Motion made for the Honor of the Houſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir T. M.</speaker>
+                  <p>I know no other difference in any perſon here; if the Secretary ſaid, I thought it reflected on the King, a man may be miſtaken in his thoughts, and in caſe it be ſo, he would ſuffer any thing under that reflection. He ſaid it was his thoughts, that the carrying the Meſſage was a reflection upon the King, and in that caſe would ſuffer any thing rather than a reflection upon the King and his Character.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir J. E.</speaker>
+                  <p>'Tis an ill thing to ſtumble at the entrance; I hope the Secretary intended no diſ-ſervice to the Houſe, but on a miſtake: I did apprehend it, and ſome others, that it was in jeſt. But in jeſt or earneſt, one ought to obey the Commands of the Houſe; but every man cannot ſubdue his own Heart. But I would know upon farther conſideration, whether the Secretary will undertake this ſer<g ref="char:EOLhyphen"/>vice or no. I am the worſt Advocate in the world for any obſtinate perſon. But I humbly offer, whether the Gentleman will ſerve you or no before he withdraw.</p>
+               </sp>
+               <stage>Ern. <hi>removed from his place and whiſpered with the Secretary.</hi>
+               </stage>
+               <sp>
+                  <speaker>Sec. J.</speaker>
+                  <p>Since the Houſe is ſo favourable as to hear me, I ſhall on<g ref="char:EOLhyphen"/>ly ſay, that I did aprehend ſending me with the Meſſage to the Lords, was a reflection upon the King; if I did apprehend it a reflection up<g ref="char:EOLhyphen"/>on my Maſter, I could not but reſent it. I am heartily ſorry I have incurred the diſpleaſure of the Houſe, and I hope they will pardon the freedom of the expreſſion. I apprehended it a reflection upon the King, and no other conſideration whatſoever induced me to ſay the words.</p>
+               </sp>
+               <sp>
+                  <speaker>M. F.</speaker>
+                  <p>I Look upon this has come from the Secretary, as ſo
+<pb n="16" facs="tcp:172894:9"/>great a Reflection upon the Houſe, that he ought to come to the Bar upon his knees, and ask pardon of the Houſe.</p>
+               </sp>
+               <sp>
+                  <speaker>H. B.</speaker>
+                  <p>We are all Subject to Infermities; ſeeing that the thing is ſo, the Secretary could not apprehend any reflection on the King by ſending him with the Meſſage, but he might apprehend it on himſelf; it was a little ſmilingly moved: but ſince he has explained himſelf, I would have this, <hi>&amp;c.</hi> paſt by, as I would on the like occaſion de<g ref="char:EOLhyphen"/>ſire for my ſelf.</p>
+               </sp>
+               <sp>
+                  <speaker>L<hi rend="sup">d</hi>. C.</speaker>
+                  <p>The Gentlemans fault is a great one, but that after he has begg'd the pardon of the Houſe, I am willing to paſs it over. Though it be a great fault, yet 'tis too little to give occaſion of a Breach at this time.</p>
+               </sp>
+               <sp>
+                  <speaker>Sec J.</speaker>
+                  <p>I am ready to obey the Order of the Houſe, and I am ſorry my words gave offence.</p>
+               </sp>
+               <stage>So he went on the Meſſage.</stage>
+               <sp>
+                  <speaker>Col. B.</speaker>
+                  <p>We ought all to give God thanks for this Diſcovery of <hi>Fitzharris,</hi> next to the firſt Diſcovery of the Plot. It is a great ſervice to the Nation, and 'tis not the firſt that Sir <hi>William Waller</hi> has don. If ever the thanks of the Houſe was deſerved, it is for this Diſcovery; and I Move Sir <hi>William Waller</hi> may have the thanks of the Houſe. <hi>Ordered,</hi> vide the <hi>Print.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div type="days_proceedings">
+               <head>SATURDAY, <hi>March</hi> 26. 1681.</head>
+               <stage>
+                  <hi>Order of the day</hi> vide <hi>Print.</hi>
+               </stage>
+               <sp>
+                  <speaker>Sir R. C.</speaker>
+                  <p>I Confeſs I have been full of Expectation of ſome Expedient to ſecure the Life of the King, and the Proteſtant Religion, without the Bill for Excluding the Duke, <hi>&amp;c.</hi> My expectation is from thoſe who oppoſed the Expedient of the Bill, (for I can call it no otherwiſe) I have in my weak judgment weighed all Expedients I have heard of, and they ſeem all to me to be a breach of the Con<g ref="char:EOLhyphen"/>ſtitution of the Government, and to throw us into diſorder and confuſion. Ihave heard that it has been an antient uſuage that Members have conſulted their Cities, Burroughs, and Counties in any thing of weight, as well as giving Money, before they reſolved it. The practice was good, and I wiſh it were con<g ref="char:EOLhyphen"/>tinued; and we can diſcharge our truſt no beetter, than in obſerving the direction of thoſe who ſent us hither. I Received an Addreſs from the City of <hi>London</hi> (having the Honour to be one of their Repre<g ref="char:EOLhyphen"/>ſentatives) in the matter of this Bill of Excluding the Duke, <hi>&amp;c.</hi> I hearttily wiſh ſome Expedient may be ſound out to ſave our Religion without it. But I muſt purſue my truſt, therefore I move a Bill may be brought to Exclude all Popiſh Succeſſours, and in particular <hi>James</hi> Duke of <hi>York.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Lord <hi>R.</hi>
+                  </speaker>
+                  <p>I have the ſame obligation upon me as the worthy perſon who ſpoke laſt, from the Country I have the Honour to ſerve for. I have been of opinion, that nothing but this Bill can ſecure us from Po<g ref="char:EOLhyphen"/>pery. In the long Parliament, 'twas ſaid, that the Duke was a Papiſt; and the danger of his power will be more now, and every day informs us of the ſad conſequences of it. I ſhould be glad of any thing but this Bill could ſecure us. I know nothing elſe can, therefore Humbly move for it, <hi>&amp;c.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <pb n="17" facs="tcp:172894:9"/>
+                  <speaker>R. M.</speaker>
+                  <p>The ſecurity of the Proteſtant Religion, and the preſervation of the Kings Perſon, is of ſo great weight, that we ſhould not have ſtaid to this day to Exclude the Duke; but I am ſorry to hear that Lan<g ref="char:EOLhyphen"/>guage, that becauſe the King has ſaid in his Speech, he will ſtick to his former reſolution in not altering the Succeſſion, <hi>&amp;c.</hi> and propoſed a kind of Expedient, <hi>&amp;c.</hi> but in this we are not uſed as an <hi>English</hi> Parliament, but a <hi>French,</hi> to be told what we are to do, and what not; 'tis the greateſt Arbitrary pow<g ref="char:EOLhyphen"/>er in <hi>England</hi> to cow a Parliament, which may be was in deſign to bring us hither; but be we called to <hi>York,</hi> or any part of <hi>England,</hi> I believe we ſhall be the ſame men we are here, and were at <hi>Weſtminſter.</hi> My Lord <hi>Danby</hi> Diſſolved the long Parliament, and ſaid, he had ſpoiled the old Rooks, and had took away their falſe Dice; and then ſtarted in the new Miniſters, and they ſhuffle and cut again, and Diſ<g ref="char:EOLhyphen"/>ſolve Parliaments, till they can get one for their turn. I have heard much weight laid upon Diſinheri<g ref="char:EOLhyphen"/>ting the Duke; ſure no Father will ſcruple to Diſinherit a Son, or a Brother, nor turn away Servants that would ruine him. If Biſhops and Councellors would ſpeak plain, they cannot anſwer deferring our ſe<g ref="char:EOLhyphen"/>curity ſo long. But neither the Miniſters of the Goſpel have endeavoured the preſervation of our Religi<g ref="char:EOLhyphen"/>on nor the Miniſters of State the Government, both acting againſt Religion and Safety of the Kings Perſon. And I have no expectation of our ſafety, but the Bill to Exclude the Duke, and therefore I move for it, <hi>&amp;c.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>H. C.</speaker>
+                  <p>If this Debate muſt be proceeded in with the Regularity and Circumſpection it ought to be, you have tranſgreſſed the Order of the day already. Several Gentlemen tell us, that there is no Expedient, but none tell us what is. All men believe the Religion of the Duke is as fatal athing to the Nation as can be, ſhould he come to be King; and what do they deſerve that perverted the Duke? But let us conſider what depends upon this Houſe, and let us proceed like men. If we are of opinion, that Excluſion of the Duke is the beſt way to preſerve Religion, this Houſe cannot do it alone; if we cannot have that beſt way, we are guilty to our Country, if we take none. If a man be ſick, and ſo ordered that nothing muſt be taken but by directi<g ref="char:EOLhyphen"/>on of three Phyſitians, and two are for giving him the Jeſuits Powder, and one againſt it, and he thinks he does the duty of his profeſſion; but they all three not agreeing it, muſt the Patient take nothing? And we are but one part of the Legislative power. But for Expedients I remember in the <hi>Dutch</hi> War, the Houſe went into a grand Committee, to conſider Expedients for raiſing Money, to ſave Land-Tax. A man whoever he be, that propoſes an Expedient, will deſire leave to make good that Expedient and muſt ſpeak it, may be often to it; but if it prove to be none, that man will be trampled upon. A Committee of the whole Houſe will be moſt proper for this purpoſe. If there be a diſpute which queſtion ſhall take place, if the firſt be denied, the other may take its place; but not one to exclude all the reſt, as this Bill will do. Let it be Excluſion or Limitation, or what it will, your order is general, to find out means againſt Popery, and preſervation of the Kings Life. When men preſs on ſo faſt, they may come late into their Inn by ty<g ref="char:EOLhyphen"/>ring their Horſes. Let a grand Committee try Expedients, elſe 'tis not <hi>conſultare</hi> but <hi>dicere.</hi> I am of a contrary opinion of having this great matter Debated in the Houſe, and for the reaſon I have told you; and if Gentlemen you will do reaſonably, a grand committee is your way to proceed in.</p>
+               </sp>
+               <sp>
+                  <speaker>J. S.</speaker>
+                  <p>You have had Motions propoſed for Expedients, but there is not a word of Expedient in the Or<g ref="char:EOLhyphen"/>der, and that anſwers it. <hi>(The Order was read)</hi> Thoſe who were here preſent when the Order was made have left it free for a Bill, or any other thing; and therefore they are not tyed to have Bills, or offer Expe<g ref="char:EOLhyphen"/>dients againſt Bills. To the ſimile of the three Phiſitians, that two could do nothing without the third, though one was for one thing, and another for another; if the caſe be ſuch, that the two in the judgment of the third, did offer nothing to the ſick man but what was Mortal he ventures upon his own Diſreputation to joyn with them. However, the three Phiſitians do not agree; we never yet ſaw any thing from the Lords in anſwer to this Bill; all Expedients have hitherto been to increaſe our fears of the King, and to haſten our undoing, and when all was at ſtake, to have Parliaments Diſſolved, that was an ill Expedient. Thoſe who were near the King, and altered their own judgments, and are come over to this Bill, <hi>&amp;c.</hi> they are all put away, and thoſe about the King now are for Expedients. The Councel of the Jeſuits, they have their end, by diſappoin<g ref="char:EOLhyphen"/>ting the Kingdom, and by raiſing the fears of the people, either to take up with a falſe ſecurity, as good as none, and ſo to impoſe Popery upon them that way, or to bring the Kingdom into diſorder. When Reli<g ref="char:EOLhyphen"/>gion and Laws, and all are at the diſpoſe of a Popiſh Succeſſor, the Kingdom will be in great diſorder that the Proteſtants will not be able to enjoy them quietly; the Papiſts have no ſurer way to effect their end. For the Houſe to go into a grand Committee, 'tis a Motion of great weight. If you deny it, it looks as if you would precipitate, and deny free Debate. If you accept it, you will ye under the inconveniency of delay and
+<pb n="18" facs="tcp:172894:10"/>who knows how long we have to ſit? If we were ſure of our time to ſit two or three Months, I would be wil<g ref="char:EOLhyphen"/>ling to go into a grand Committee. But as to the ill umbrage of refuſing a Committee, 'tis not like other caſes. I would have an inſtance, if ever in a thing of this weight, the Houſe went into a grand Committee. This matter of Excluding the Duke, has been depending two Parliaments, and any other way for our ſecu<g ref="char:EOLhyphen"/>rity would have been accepted. Nothing elſe could be found out the laſt Parliament, the whole Kingdome was ſatisfied with nothing elſe. And now what reaſon is there to go into a grand Committee, for a thing ſo often debated to the bottom? No man can deny but a grand Committee is proper, when ſomething of an Ex<g ref="char:EOLhyphen"/>pedient is offered; but to offer it generally, is as if the thing was never conſulted nor debated before. I never ſaw any Expedient but this Bill, nor any reaſon offered againſt the Bill, but ſet it aſide, and think of Ex<g ref="char:EOLhyphen"/>pedients. Therefore pray proceed according to the Order.</p>
+               </sp>
+               <sp>
+                  <speaker>L. G.</speaker>
+                  <p>If any Gentleman have Expedients, I deſire he would propoſe them; if they be of any weight, they will deſerve well of the Houſe; if it ſeems to them they will give us ſecurity, I would be glad to hear them.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir J. E.</speaker>
+                  <p>When the Motion was firſt mide, for going into a grand Committee to hear Expedients, <hi>&amp;c.</hi> I did then ſecond it for this reaſon; becauſe of the Honour of the place I ſerve in. I did underſtand by the Kings Speech there was Expedients. I am unwilling to determine the ſenſe of any man, who am of the weakeſt. But a Motion was firſted and ſeconded for a Committee of the whole Houſe, and when that is done I ſhall offer ſomething.</p>
+               </sp>
+               <sp>
+                  <speaker>T.B.</speaker>
+                  <p>I muſt ſpeak againſt that Queſtion of a grand Committee, pray keep to the Order of the day. Ex<g ref="char:EOLhyphen"/>pedients that have been moved for already, as the Jeſuits powder for an Ague, <hi>&amp;c.</hi> but our Diſeaſe is a Plu<g ref="char:EOLhyphen"/>riſie, and we muſt let blood. Let us go to what will do our buſineſs, and it may be we muſt have other Ex<g ref="char:EOLhyphen"/>pedients to fortifie the bill. I would have the Houſe rightly underſtand, that thoſe who are againſt going into a grand Committee, and for Excluding the Duke from the Succeſſion; and thoſe who are for a grand Committee, are for him to ſucceed; and put the Queſtion if you pleaſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir F. R.</speaker>
+                  <p>To Exclude the Duke from the Succeſſion, <hi>&amp;c.</hi> that is a good Expedient to prevent Popery; pray let that or others that ſhall be preſented be conſidered.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir T. M.</speaker>
+                  <p>If there be but one Expedient offered, I do not think that ground ſufficient to go into a grand Committee to conſider it, but poſſibly there may be ſeveral. This Bill is agreed to be an Expedient; and I have known, that in a buſineſs of leſs weight then this, you have gone into a Committee, <hi>&amp;c.</hi> If an Expe<g ref="char:EOLhyphen"/>dient muſt be offered in the Houſe, you cannot but allow Gentlemen to make replies in a fair Debate, to anſwer Objections. And if you in the Houſe will depart from that from, the Houſe or Committee are e<g ref="char:EOLhyphen"/>qual to me. But our Debate is broke; one Gentleman ſaid, he would be content with a Committee, if not intended for delay. I do not doubt but this day will have its full effect. When 'twas moved on Thurſday laſt, for this day to take into conſideration the preſervation of Religion, without naming Bill or Expedients, it gave a great credit to your work. I would have no diſcouragements upon people that have Expedients, by not going into a grand Committee.</p>
+               </sp>
+               <sp>
+                  <speaker>R. H.</speaker>
+                  <p>We are perplexed in having ſeveral Queſtions on foot. I ſhall put you in mind, that this Bill now propoſed, is no new nor ſtrange thing. Our bunneſs I ſuppoſe, is to find out Expedients to preſerve the Proteſtant Religion, and the Kings Perſon; here is a way has paſt two Parliaments already; a way no rea<g ref="char:EOLhyphen"/>ſonable objection has ever been made againſt it; and a way rejected by the Lords in groſs, without offer<g ref="char:EOLhyphen"/>ing any other. But I doubt, if other Expedients be tryed, if they prove falſe, we ſhall endanger the Prote<g ref="char:EOLhyphen"/>ſtant Religion. Some have ſaid, that Gentlemen apprehend they have Expedients; why then may not they <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> propounded, that the Houſe may judge whether 'twill be worth going into a grand Committee to conſi<g ref="char:EOLhyphen"/>der them? But if Gentlemen will have it their own way, or not at all, I'le tell you how this looks, as if they were ſomething one way, and nothing another: but he does not diſcharge his duty to his Countrey that does <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e; therefore if Gentlemen have any Expedients, pray let them offer them.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir J.E.</speaker>
+                  <p>If the Houſe be of a mind not to enter into a grand Committee, I ſhall offer my little mite, as 'tis every mans duty to offer Expedient that has any. I doubt not but other men have, and better than me; but forego not into a grand Committee, I ſhall offer what I have. I do apprehend by the Bill propoſed, that 'tis a Bar to the Succeſſion of the Duke, and places the Succeſſion in the next Heir. I ſhall propoſe, if you pleaſe, not the Name of King, but the power as a Regency in the next Heir, 'tis no new thing; in <hi>Spain</hi> and <hi>France,</hi> and (God knows) we have ſeen it done in our Kingdom. If the Adminiſtration be placed ſafe in the perſon, that may have no power to reſign to the Duke, and may have full power
+<pb n="19" facs="tcp:172894:10"/>and authority at the death of the King to call that Parliament which ſate laſt, who ſhall have time to ſit to confirm this by Act of Parliament. I hope this may be done, and may be done ſafely, if you can con<g ref="char:EOLhyphen"/>trive ſuch a way.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Sir</hi> N. C.</speaker>
+                  <p>As I underſtand, 'tis propoſed, that the Government ſhall be in Regency during the Dukes Life I would be ſatisfied if the Duke would not ſubmit to that, whether thoſe that fight againſt it are not Traytors in Law.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir W. P.</speaker>
+                  <p>I think this you are upon a matter of great weight; ſome Expedient has been offered you; I believe as yet but a crude one, and I cannot imagine will ever be an effectual one. He that moved it, tells you, he hopes when drawn into better form, it may do what you deſire. It Excludes the Duke and in his place, the next in the Succeſſion ſhall have the Regency in him.—But our laſt act left it in the Law, Conſider what is a Regency; I never heard of it; but of a Prince in poſſeſſion, in Minority or Lunacy, and it, has generally been very unfortunate. But to talk of a Regency <hi>in futuro,</hi> in condition and limitation of time I never heard of. This Expedient does not anſwer the Kings Speech, nor your former Bill; they make the King but a ſhadow, and they divide Perſon from Power, our Law will not endure it. The Perſon divided from the Power, both will be courted; and who that next Heir will be we know not. The King leads you to conſider Expedients, but ſuch as will conſiſt with the ſafety and dignity of Monarchy. This muſt be two Kings at the ſame time, one by Law, and another by Right. <hi>Portugal</hi> gives us ſome inſtance of Regency, where the King was put into priſon for Miſcarriages, in the Government, and his next Heir made Regent; but there is a vaſt difference in theſe two caſes. The King of <hi>Portugal</hi> was ſet aſide for perſonal Miſcar<g ref="char:EOLhyphen"/>riages, not for being a Papiſt; and which is another thing, that was preſent, this is to come. If this Que<g ref="char:EOLhyphen"/>ſtion be to let the Duke in, and then make a Queſtion whether Allegiance be due to him; but I am afraid, that unleſs we be true to thoſe we repreſent, from whom by Expreſs direction moſt of us are to purſue the Bill, <hi>&amp;c.</hi> we ſhall not be avowed in what we do. The Bill, <hi>&amp;c.</hi> has been under conſideration of all the people of <hi>England,</hi> and perhaps all the Proteſtants of <hi>Europe;</hi> all the Wits of Learned men have made their Objections againſt it, yet notwithſtanding, all people are ſtilof the ſame mind—And now we run up<g ref="char:EOLhyphen"/>on the moſt miſ-ſhapen thing, which it may be two or three years before we underſtand it, and we may ex<g ref="char:EOLhyphen"/>pect to have an operation of it no body knows when. I ſee very little weight in it, unleſs improved by ſome other perſon; therefore I am for the Bill.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir T. Litt.</speaker>
+                  <p>We are flying at a great matter. To fight againſt the Duke if he ſhould be King—God forbid—We have been told three or four times of Directions Gentlemen have had from their Prin<g ref="char:EOLhyphen"/>cipals, to be againſt all thoſe things of Expedients, and to inſiſt upon the Bill of Excluſion, <hi>&amp;c.</hi> I would not have that way much cheriſhed 'tis an uncertain thing; and no footſteps remain of any papers from their Country. I take the meaning of that going down, is to conſult their Neighbours for Direction what to do. I hear talk to day of Parliaments of <hi>France,</hi> but this way is as dangerous; like the States of <hi>Holland</hi> to con<g ref="char:EOLhyphen"/>ſult with their Principals before they reſolve, moſt unuſual and of very dangerous conſequence. A Regency has been propoſed to ſecure the Adminiſtration of the Government in <hi>Proteſtant</hi> Hand, ſo as not to alter the conſtitution of the Monarchy; and this alters the Conſtitution of the Monarchy the leaſt imaginable. A Regency in Room of a King, and the Monarchy goes on. We have had Regent Protectors, call it what you pleaſe, <hi>Primus Conſiliarius,</hi> in caſe of a Minor Prince; but I propoſe not this. If you alter the Government, I am againſt it; but here is offer'd a Regent in place of the King, or transferring the Government. But it may be ſaid, Where ſhall the Duke be all this while? That point I think is pretty well over, there is no deſign of Secluſion—The Lords would have Baniſhed him 600 Miles from <hi>England</hi>—The Duke has an Eſtate, and He as all men beſide loves it, and will not part with it, and will do nothing to forfeit it.—But your Bill of Excluſion ſecludes the Duke, and the Crown then is to fall as it does fall. What is then the Caſe? You muſt imagine, either his own Daughter will take up Arms, if the Duke attempt the Crown, or ſome bodie elſe will, to keep him out, and that will raiſe ſuch an Anger in the Dukes mind, whether will they ſhelter themſelves? Not under his Daughter; they muſt naturally ſhelter themſelves? and run into Armes. <hi>Cromwel</hi>'s way was to keep up an Army of Sixty thouſand Men for his ſecurity, eſpecially an Army fleſht with Victory. And they that have it will keep it. We are not in the condition we were formerly; when the Lords cheriſhed their Tenants by good Leaſes, they could raiſe an Army, &amp; ſend them home to their houſes when they had done what they were raiſed for: But we are now in another way; raiſe an Army, and they wil
+<pb n="20" facs="tcp:172894:11"/>think of their own Interreſt to be kept up. But if it fall out thus, your Bill leaves it very loſe.—Aſſoon as this Bill is paſt, ſuppoſe the Regency eſtabliſhed in the Princeſs of <hi>Orange</hi> or the Lady <hi>Ann</hi> and in the ſame Law a Commiſſion be ſent over to take an Oath from her ſtrictly to execute this Law, you are then not left in that looſe manner you will be by the Bill, <hi>&amp;c.</hi> 'Twill be a far leſs matter for her to ſave a Family, before Misfortune come upon it, than to take the Government upon her afterwards, in the trouble of an oppoſition. But it may be ſaid, What needs all this, 'tis juſt nothing but retaining the name of K. in an exiled man? — But 'tis leſs violation in her to Govern in her Fathers Name, than to take the Kingdom from him. It may be wondered, why in <hi>Portugal,</hi> upon Depoſing that King, there was a great Debate of the three Eſtates (though they hold not the proportion as they do here) In this great Debate the Commons were for <hi>Don Pedro</hi> to be King, the Nobility to have him Regent, the Eccleſiaſticks Demurr'd, but at laſt both came over to the Nobility. But <hi>Don Pedro</hi> ſtuck here, and would ſtill leave his Brother the Title of King, and would leave nothing of ſhelter, to force Nature too far, There are Reſerves in the King's Speech I cannot but take notice of by the way. There is another thing to be conſidered. Some will be paying a deference to the Sacredneſs of a Crown, for Governments ſake. This Objection looks like ſomething, He is like to be five hundred Miles off, <hi>&amp;c.</hi> and a Law to take up Arms againſt him.— How was that Law, that the King and Parliament have power to diſpoſe of the Crown? it was then an Opinion amongſt the Law<g ref="char:EOLhyphen"/>yers that the Crown was unal enable; but when that Law was made, that Opinion was damn'd under a penalty; though 'twas a ſtanding Max'me, before that Statute was made. If ſo, this new Act will be a Warrant for what is propoſed, as that was for the other. For my part, I have had the all fortune to have the wind in my face, and to be againſt the generall Opinion and ſtream of the world; and having had for ſome time no ſhare in the Government, I may ſpeak poſſibly more freely then they that have. 'Tis a great Crime to ſpy things too ſoon, which makes men apt to run from one Extream to another. I have propoſed the beſt Expedient I can, and moſt ſafe; but I am afraid, if you do nothing in this great Af<g ref="char:EOLhyphen"/>fair now it is ſtarted (I'll graple with neither of the Expedients; but if you do nothing but let the thing lye looſe, you'll gratifie the Jeſuits by our confuſion, and the commonwealths men to ſhuffle the Cards again. But if you go into ſome Medium, both theſe ſort of men will be undone.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir W. J.</speaker>
+                  <p>I have beard with great Attention this very Learned and able Gentleman. I am really of opinion, if any better Expedient could have been found out, than what has been propoſed, that he as aſſoon as any Gentleman would have propoſed it. But I am amaſed, that ſo learned a Gentleman ſhould not ſee through this Expedient. That which I take for the Expedient its, the Duke to retain the name of King, and the next Heir to be under the Title of Regent or Protector: What does he mean by next Heir? For any thing I know and believe, it is the Dukes Daughter; but it may be the Duke may have a Son. Either I have a great cloud upon my underſtanding, or this is ſtrange, that if the Duke have a Son, and ſhall he at a Day, a Month, or Year old be Regent? Suppoſe the Princeſs of <hi>Orange</hi> come over, and ſhe dye, (the Prince of <hi>Orange</hi> has no Right to the Regency) and ſhe leave a Child, and that Child be Regent, that Child muſt have a Protector; and ſo there will be a Protector of a Protector. But, Sir, we are told, that nothing but to keep up the Greatneſs of the Government makes them go from the Bill of Ex<g ref="char:EOLhyphen"/>cluſion to this Expedient. But is it ſo great and pleaſing a thing to wear a Crown, and be called King, and have no Authority? It is much worſe than to looſe an actual Crown and the poſſeſſion of it. If the Bill paſs and the Duke be Baniſhed 500 Miles off, it muſt be out of <hi>England</hi>—if the name will pleaſe him, in Givility beyond the Sea he ſhall be King, and it will be as much to his purpoſe boyond the Sea to be called King only, as here— But for the Security of his Eſtate being here: He that would venture the loſs of a Kingdom for Religion, will his Eſtate too; that's but a weak ty. It is leſs injuſtice to take away the Crown and power from him, than to have of both but the Name. If you allow the Duke the Name, it will imply a Right; therefore for that to be uſed as an Argument is ſtrange. But why is this Contention and all this ado, I wonder, for an empty Name (But I am afraid this Expe<g ref="char:EOLhyphen"/>dient is a kind of Jeſuit-Powder (I do not think the Gentlemans Intent or Opinion is for the Jeſuits) but a wiſe man may over-do ſometimes—If you do not Exclude the Dukes Title, the Duke is King ſtill, and then will Learned Lawyers tell you, that by 1 <hi>H.</hi> 7. all Incapacity is taken away by the poſſeſſion of the Crown. If you take not away the Diſcent of the Crown, and that the Duke has a Tittle to be King, then without Doubt all incapacities fail,—but if the thing may be effectually done, I am as willing to exclude him the Name, as well as the power; but Lawyers know no diſtinction.—When the Lady comes to be Re<g ref="char:EOLhyphen"/>gent, not only Nature, but Conſcience will put her upon giving <hi>Caeſar</hi> his due; and perhaps that Text
+<pb n="21" facs="tcp:172894:11"/>ſome of our Divines will preach upon. They'l ſay that the Parliament by what they have done, acknow<g ref="char:EOLhyphen"/>ledg a good Title in the Duke. But if he be King, as the Parliament allows him to be in Name, he has right of Deſcent, and ſo will be reſtored to all the Rights of King.—An Argument upon Queen <hi>Ma<g ref="char:EOLhyphen"/>rie</hi> like this, reſtored the firſt Fruits and Tenths.—Another thing perhaps may come from them that pro<g ref="char:EOLhyphen"/>poſed this Expedient, (I do not believe it came from that Gent. <hi>&amp;c.</hi>) if you had paſt the other Bill, great many would not ſubmit to it, but if you paſs this, if the Duke have right to be King, and be kept from the Adminiſtration of it, I doubt whether I ſhall ſight againſt him. And the Papiſts will ſay, you have got a Law to ſeperate that which is inſeperable. I would, if I were as the Duke, have this Bill to perplex my oppoſers, rather than a clear one. He has told you of an Army to maintain the Bill, <hi>&amp;c.</hi>—which will not ſoon be laid down. But why an Army?—If there muſt be an Army for your Bill, there will be four Armies requiſite to maintain the Expedient.—A protector has been propoſed, not like that of <hi>E.</hi> 6. who was little more than the now Lord Preſident of the Councel.—But certainly they who propoſed the Expe<g ref="char:EOLhyphen"/>dient, would have by it the ſame power of letting in the Duke, as of keeping him out. Therefore I move to lay aſide this conſideration, and take up the Bill as has been moved for.</p>
+               </sp>
+               <sp>
+                  <speaker>L. G.</speaker>
+                  <p>I think it is fit we ſhould preſent Reaſons to the King for paſſing this Bill of Excluding the Duke, <hi>&amp;c.</hi> I do think that the Adminiſtration of the Government has been in ſuch hands ſince the King come in, that though the Miniſters have been changed, yet the ſame principles remain to to this day, though ſome have been removed.—The breaking of the Tripple League, the taking of the <hi>Dutch Smyrna</hi>-Fleet. The King of <hi>France</hi> makes War for his glory, and we for nothing but to get Riches to make the King Abſolute. Such a violation was done upon the Rights of the people as has been done.—<hi>He was called down to Order</hi>—</p>
+               </sp>
+               <sp>
+                  <speaker>E. V.</speaker>
+                  <p>A Queſtion ſo extreamly well ſpoken unto, to be interrupted with any angry Queſtion, is not very decent at this time; what is ſpoken of, is matter to be enquired into another time, though the Gentleman does it with a worthy intent. If any Gentleman have any thing elſe to propoſe, pray hear him.</p>
+               </sp>
+               <sp>
+                  <stage>[L. G. Goes on]</stage>
+                  <p>I intended to Move you for Reaſons to induce the King to paſs this Bill. The ſtrange and diſhonourable Retrenchments made in the Kings Family.— He is ſurrounded by the Dukes Crea<g ref="char:EOLhyphen"/>res.—'Tis not ſafe for the King to part with any one Miniſter, unleſs he part with all; and when theſe men have got a Bank of money for a Popiſh Succeſſor, then will be the time to take away the King.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir F. W.</speaker>
+                  <p>This we are upon is a matter of great weight and difficulty. Let any man that can, maintain this Expedient, or give you a new one.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir T. M.</speaker>
+                  <p>I have heard with patience <hi>this Expedient</hi> which has been well offered, and I believe miſtaken by the Gentleman who anſwered it. I muſt ſay this, your Queſtion and your buſineſs is <hi>Religion,</hi> and I have given as good proof of my zeal for the <hi>Proteſtant Religion</hi> this twenty years as any man has; and I have been for this Bill of Excluding the Duke, &amp;c. I am of opinion ſomething muſt be done to ſecure <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> For the point of <hi>Law</hi> mentioned, if the Law be ſuch, <hi>That Dominion muſt run with the Name of King,</hi> that ſingle Reaſon is to carry the Debate. But if I anſwer not that, I am at an end. But ſure thoſe words that can diſinherit a King, may make this <hi>Expedient</hi> Law. I would not riſe now, if I thought the <hi>Bill</hi> to Ex<g ref="char:EOLhyphen"/>clude the <hi>Duke, &amp;c.</hi> could paſs; my grounds are but conjectures. The laſt <hi>Parliament</hi> I did think this Bill would paſs with greaſing the wheels. The condition of <hi>England</hi> is thus; we do need one another, both <hi>King</hi> and <hi>People;</hi> and we have need to make uſe of a <hi>Parliament</hi> to aſſiſt one another, to relieve us in the difficulties we are in. If the <hi>Duke</hi> ſhould be <hi>King,</hi> he will need a <hi>Parliament,</hi> and ſo will the people. In order to this, if another <hi>Expedient</hi> can be found out as like this, though not the ſame, which no objection of Law could deſtroy, he would do the King and Kingdom great ſervice and advantage who would produce it. In this neceſſity we are like two great Armies encamped upon two Hills, and neither dare remove, not for want of Valour, but from their Reaſon: he that has the laſt loaf ſtays longeſt, neceſſity compels the other to decamp. At laſt it muſt be one ſide or other, or elſe <hi>England</hi> will have the worſt of it. But if none will venture to clear the matter in point of Law, I am anſwered. If any could alter that <hi>Bill,</hi> that it ſhould not be the ſame we have had twice before, I ſhould like it. I like this <hi>Expedient</hi> offered you, for <hi>'tis a Bill of Excluſion,</hi> and ſo ſtrong a one, that the <hi>Duke</hi> may chooſe the firſt rather. I am for the nail that will drive to do our buſineſs. If Gentlemen have other thoughts, pray ſo contrive it, that we have one Bill or t'other.</p>
+               </sp>
+               <sp>
+                  <speaker>W. H.</speaker>
+                  <p>All the <hi>Expedients</hi> I have heard yet, are like a <hi>Coucomber,</hi> when you have well dreſt it, <hi>throw it away.</hi> Theſe Gentlemen tell you, they will bring in <hi>a Bill of Excluding the Duke from the Regency, &amp;c.</hi> This propoſition is either honeſt or not; if it be honeſt and without deſign, then all the diſpute betwixt the <hi>King</hi>
+                     <pb n="22" facs="tcp:172894:12"/>and <hi>Us,</hi> will be, whether the <hi>Duke</hi> ſhall have a Title to the Crown. But I hope the King will rather gratify the Nation, than the Duke. If this be not honeſt, and people about the King circumvent him, they will find means from day to day to divert him. Why was <hi>England</hi> ſo fond of <hi>Calis,</hi> but to have ſome footſtep into <hi>France?</hi> And ſo this Bill, let the Bill paſs, and all thoſe Gentlemen who have dependency upon the <hi>Duke,</hi> if he come to the Crown, will change matters.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir F. W.</speaker>
+                  <p>A worthy Member not being ſatisfied with Argument of Law againſt the <hi>Expedient,</hi> that calls me up, as in my profeſſion. The Queſtion about this <hi>Bill of Excluſion,</hi> that 'tis lawfall in Conſcience, no man will oppoſe: the great oppoſers of it in the <hi>Lords Houſe,</hi> agreed it lawfull when they threw it out.—Not <hi>Jure Divino</hi> unlawfull <hi>concurrentibus iis qui concurrere debent.</hi> Some Gentlemen told you, their <hi>Country</hi> gave them inſtructions to preſs this <hi>Bill of Excluſion,</hi> &amp;c. <hi>Sir T. Lit.</hi> ſaid, it was dangerous to take Inſtructions from the <hi>Country:</hi> But I ſay, 'tis much more to take it from <hi>Court. Parliaments</hi> formerly upon any extra<g ref="char:EOLhyphen"/>ordinary matter, ſtaid, and ſent their Members to conſult with thoſe who ſent them. I am not ſubjugated (when I am here) to what the Country does propoſe. I am as much againſt a <hi>Republick</hi> as he that fears it; but I am a Proteſtant. I ſay, I know Sir <hi>T. Litt.</hi> to be of that Experience and Reaſon, that if he go a<g ref="char:EOLhyphen"/>way ſatisfied in this matter, he will do all the good he can in the poſt he is in. But to keep cloſe to this que<g ref="char:EOLhyphen"/>ſtion; It being allowed by Law, <hi>That an Excluſion of the D. from the Crown may be;</hi> the next thing is to con<g ref="char:EOLhyphen"/>ſider the <hi>Expedient of the Regency</hi> propoſed. The ſame Authority that can make a Deſcent of the Crown may mod fie it. He argued to ſhew that the <hi>Regency</hi> would make the <hi>Duke</hi> inſignificant in the Admini<g ref="char:EOLhyphen"/>ſtration of the Government. Now the Queſtion is, which is the moſt parcticable. We Lawyers are ap<g ref="char:EOLhyphen"/>teſt to go on the ſtrongeſt ſide, and to call every thing Prerogative. I'l put you a caſe, in King <hi>James</hi>'s time, the <hi>Sheriff of</hi>—there was an exceptation in his Commiſſion, that he ſhould not keep the <hi>County Court of</hi>—but ſhould have all other Exerciſes of his Office. But the Judges reſolved he was <hi>Sheriff</hi> to all intents and purpoſes, and that he could not be hindred keeping the <hi>County-Court.</hi> An Act of Parliament againſt common ſence is void. To make a man <hi>King,</hi> and not ſuffer him to exerciſe <hi>Kingly power,</hi> is a contradiction. Some clauſes formerly in <hi>Acts of Parliament,</hi> were flattering clauſes, to ſatisfie the people, and not let them have the thing. Should this of the <hi>Expedient</hi> be an <hi>Act,</hi> 'tis nonſenſe, and may be ſaid hereafter, the Houſe of Commons were outwitted. I owe the <hi>Duke</hi> obedience if he be King: but if he be King, and have no power to govern, he is the <hi>King</hi> and no <hi>King.</hi> I have urged this to ſhew, that this is no <hi>Expedient,</hi> it blears only peoples Eyes, and is no ſolid ſecurity. To ſay the <hi>Duke</hi> values his Eſtate, which he may forfeit, <hi>&amp;c.</hi> He loves a Crown too very well, therefore you are not to arm your ſelf in point of Con<g ref="char:EOLhyphen"/>ſequence, but in point of Reaſon. The laſt Parliament I did ſee, by the management of the Papiſts and the Miniſters, that without <hi>this Bill of Excluſion,</hi> our ruine is irreſiſtable. If the <hi>Duke</hi> come to the <hi>Crown,</hi> He brings with his Religion <hi>Merum Imperium,</hi> and that made me fond of the Bill; but if by Law the <hi>Duke</hi> never was King, there is no caſe of Conſcience lyes upon us in his <hi>Excluſion.</hi> I will only make this ob<g ref="char:EOLhyphen"/>ſervation of the <hi>Kings Speech,</hi> in relation to this Queſtion—<hi>And if it be practicable, the ridding of our ſelves quite of that Party,</hi> &amp;c. <hi>and not to lay ſo much weight upon one Expedient, as to determine all others are ineffectual,</hi> vide <hi>Speech.</hi> The two main points (it ſeems) the <hi>King</hi> doubts himſelf, and all this delive<g ref="char:EOLhyphen"/>red by the <hi>King</hi> in great wiſdom, is clipt off to <hi>this Expedient of the Regency.</hi> You ſee now we come to <hi>Expedients;</hi> the Miniſters have had <hi>two Parliaments</hi> to conſider it, and now we are come to this <hi>Expe<g ref="char:EOLhyphen"/>dient of the Regency.</hi> I find no ſecurity in <hi>Law</hi> by this <hi>Expedient;</hi> you take away nothing by this <hi>Expe<g ref="char:EOLhyphen"/>dient,</hi> and therefore I hope the <hi>Bill of Excluſion</hi> will paſs. I hope that reaſon, and not great Offices, will take men off from their <hi>Nemine contradicente.</hi> I ſpeak this as if I were a dying man, and Humbly Move for the <hi>Bill, &amp;c.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>H. B.</speaker>
+                  <p>I have it in command from my Country, <hi>That they apprehend no Expedient to ſecure us from Popery,</hi> but that the Remedy will be worſe than the Diſeaſe, <hi>unleſs this Bill.</hi> I have heard as yet no Reaſon given againſt it. But there is an <hi>aliquid latet.</hi> If the D. be not ſet aſide, I am ſure the Govern<g ref="char:EOLhyphen"/>ment will be; and therefore I am for <hi>the Bill of Excluſion,</hi> &amp;c.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir T. M.</speaker>
+                  <p>I know not how far Sir <hi>Fr. W.</hi> Argument may be preſt, what <hi>Bill</hi> ſoever we may have. Pray let us have the <hi>Law</hi> on our ſides, that if the King ſhould dye, we may know whether we are to go. I think the <hi>K.s' Speech</hi> is penned as it ought to be penned; and ſhould a <hi>King:</hi> ſpeak poſitively to what <hi>Laws</hi> He would have, we are an <hi>Iriſh</hi> Parliament, and not an <hi>Engliſh;</hi> but the <hi>Kings</hi> words are tender words. The thing lies fairly before you, if any <hi>Expedient</hi> can be thought of, not to deſtroy the
+<pb n="23" facs="tcp:172894:12"/>
+                     <hi>Monarchy;</hi> and if the next preſented be not the beſt, not to refuſe the next.</p>
+               </sp>
+               <sp>
+                  <speaker>E. V.</speaker>
+                  <p>You have had an Expedient offerd you of a <hi>Regency,</hi> &amp;c. inſtead of <hi>the Bill</hi> of Excluſion, <hi>&amp;c.</hi> Pray conſider what this Regency is? 'Tis the whole Office of a King to appoint <hi>Judges</hi> call <hi>Parliaments,</hi> &amp;c. This Power they would take away from the <hi>Duke.</hi> But if by Law they will reſerve the name of <hi>King</hi> to the <hi>Duke,</hi> 'tis to bring a War upon us, and to bring the <hi>Duke</hi> in by force. This <hi>Regency</hi> muſt he ſup<g ref="char:EOLhyphen"/>ported by War, as well as <hi>the Bill of Excluſion.</hi> By the 13 <hi>Eliz.</hi> the <hi>Crown</hi> is not alienable by the <hi>King</hi> but may be alienated by <hi>King Lords and Commons.</hi> And when that Statute was made, no Succeſſour was named, to keep King <hi>James</hi> in awe; which I conceive was the Reaſon why none was named in the laſt <hi>Bill of Excluſion.</hi> Though we have bin frighted out from that <hi>Bill</hi> by <hi>Prorogations</hi> and <hi>Diſſolutions,</hi> yet 'twill not frighten them whoſe Reaſons go along with it. And I am for that Bill, becauſe all men are for it, and have ſent, up the ſame Parliament again that paſt it. But if you lead people into uncer<g ref="char:EOLhyphen"/>tainties in the Government (as this project of <hi>Regency</hi> undoubtedly will do) the <hi>Court</hi> and the <hi>Country</hi> will be of a mind to lay aſide <hi>Parliaments</hi> becauſe they are uſeleſs.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir H. C.</speaker>
+                  <p>Peoples eyes are now enlightned, and all the world over they are an informed people. The <hi>Papiſts</hi> care not who is King if he be a <hi>Papiſt. And ſo he proceeded much to the ſame purpoſe in ſe<g ref="char:EOLhyphen"/>veral Speeches in the laſt Parliament.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Col. <hi>G. L.</hi>
+                  </speaker>
+                  <p>I would not have ſpoke ſo much out of duty to my Maſter, but for the duty I owe to my Country. I owe a new Obligation to the King for I am the <hi>D's</hi> Servant from the King, My Father was a Servant to the late King and this; and I have my protection under him. I was bred in <hi>England,</hi> and for his Service at Sea. I know my own weakneſs, not being bred to the Law; but by enquiry I find, that the Doctrine of diſpoſing a Kingdom from the Right Heir is Damnable: and 'tis the Doctrine of the Church of <hi>Rome.</hi> I have heard that in the 24 <hi>E.</hi> 3, the King demanded Advice of the <hi>Parliament,</hi> in matters relating to the Crown. The Anſwer was by the whole <hi>Parliament, They could not adviſe in any thing relating to the Crown, nor of diſinheriting Him to whom they were ſworn.</hi> The Fundamental and Com<g ref="char:EOLhyphen"/>mon Law of <hi>England</hi> has made the <hi>Duke</hi> Heir to the Crown, if the King have no Sons. The Title of <hi>Hen.</hi> 4. was confirmed by <hi>Parliament,</hi> but he laid his Claim of Deſcent from <hi>H.</hi> 3 and it continued in that Deſcent till <hi>H.</hi> 6. and then the <hi>Parliament</hi> declared that thoſe Acts were not binding but unjuſt; and de<g ref="char:EOLhyphen"/>clared the Oaths of Allegiance to thoſe Kings in famous and wicked; and ſo the Right Heir came in. <hi>H.</hi> 8. had Power to diſpoſe of the <hi>Crown,</hi> by his laſt Will and Teſtament, to place and diſplace the <hi>Crown</hi> at his pleaſure, yet all his right Heirs came to the Crown; though <hi>Jane Gray</hi> claimed it by vertue of that Will, and baited her Title with Religion. Queen <hi>Elizebeth</hi> made a Law, <hi>That whoever did maintain, That the Crown could not be diſpoſed of by Parliament, ſhould be Guilty of Treaſon,</hi> &amp;c. <hi>and for ever after of Praemunire.</hi> But ſince that, there is a Reſtitution of King <hi>James,</hi> which acknowledge him lawfully, rightly, and juſtly the next Heir to the <hi>Crown,</hi> and did beſeech the King to accept of their Allegiance to him and his Poſterity: And I think our Anceſtors ſwore to the King and his Poſterity, as well as we. 'Tis a great Happineſs to this Nation that both the Lines are united, and that we are rid of the Misfortunes of the <hi>Barons Wars.</hi> We have had Attempts to turn the <hi>Government</hi> into a <hi>Republique.</hi> And who knows but that if you put by the Right of the <hi>D.</hi> the Revenue of the Crown being much upon the people, but that there may be Attempts to turn the Gevernment into a <hi>Republick</hi> again? When my Fa<g ref="char:EOLhyphen"/>ther was in Priſon in the late Troubles, an eminent man then in Power in diſcourſe with him ſaid, <hi>I have obliged you, and if the King come in, as I believe He will, then think of me; Look to your Selves when you are in the Saddle again: If once you divide, adieu to Monarchy for ever.</hi> If you keep out the <hi>Duke</hi> what muſt follow? <hi>An Act for Aſſociation;</hi> I ſpeak now for <hi>England,</hi> and for my Poſterity (I have ſeven Children,) How will this look? The Kings Father Murder'd, and his Brother taken from Him; Will this take no effect with the King? I wiſh the Duke many happy days, but the King more, from my heart than the Duke. The King is a healthful Man, and the Duke is not. I am not barely the <hi>Duke</hi>'s Servant, which makes me concern my ſelf; nor out of pique of Honour would I do any thing to deſtroy my Poſterity. Therefore I am againſt the Bill, &amp;c.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir W. C.</speaker>
+                  <p>That which calls me up, is to anſwer ſomething that was ſaid by the worthy Member that ſpoke laſt; I am for the Bill of Excluſion, (and was ſo the laſt Parliament) becauſe I am clearly ſatis<g ref="char:EOLhyphen"/>fied there can be no Security without it. But I muſt ſo far agrree with him that this Bill, (if it ſhould paſs)
+<pb n="24" facs="tcp:172894:13"/>will not be a full and compleat Security. But—<hi>Here being an Interruption by a noiſe</hi> in the Houſe, this <hi>Gentleman proceeded no further.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Col: B.</speaker>
+                  <p>This is the day of <hi>Englands</hi> diſtreſs, and not only <hi>England</hi> but upon this days Debate depends the good fate of the <hi>Proteſtant Religion</hi> all the world over. Except you expect a Miracle from Heaven, no<g ref="char:EOLhyphen"/>thing elſe can ſave the <hi>Proteſtant Religion,</hi> but this Bill of Excluſion. I think I have ſaid this many years ago, <hi>That Popiſh Matches would bring in Popery at laſt.</hi> As to the point of Law (ſpoken of) that 'twill be interpreted according to the ſtrength of the Party — But I doubt not, if we do our endea<g ref="char:EOLhyphen"/>vours, God will help us, if we have nothing left us but Prayers and Teares. We are in condition of Con<g ref="char:EOLhyphen"/>queſt or Compact, and ſo is all Government. Intereſt muſt defend this Bill, and not an Army; we are the Army. I have a Family as well as others, and where Idolatry muſt be ſet up; and rather than my Chil<g ref="char:EOLhyphen"/>dren ſhould breath in ſuch an Air, I had rather they were buried, and had all the miſchiefs in the world. Col. <hi>L.</hi> ingenuously offer'd ſome things; but without this Bill you may ſit down, take a <hi>Popish</hi> Succeſſour, and renounce the Proteſtant Religion. I would break this <hi>Popish</hi> Intereſt, and then In<g ref="char:EOLhyphen"/>tereſt will maintain this Bill. If once this Bill paſs, and as in Queen <hi>Elizebaths</hi> time Proteſtants are put in places of Truſt, you need not fear the diſturbance ſpoke of. Where ten were of this minde, an hun<g ref="char:EOLhyphen"/>dred are now that will bleed for this Bill. In plain Engliſh, let the world ſee that the Proteſtant Religion is dear to us, and we ſhall have the <hi>Law</hi> on our ſides.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir T. Litt.</speaker>
+                  <p>I was miſtaken by ſome Gentlemen in what I ſaid: I ſhall be very ſhort and tender of the time, becauſe 'tis late. That of the Lady <hi>Maries Regency</hi> obviated an abſurdity in the former Bill. If the Duke ſhould have a Son, where are you then? The Lady cannot deſcend from the Throne, having poſſeſs'd it. But my meaning was that the two Princeſſes reſpectively ſhould Succeed in the Regency dur<g ref="char:EOLhyphen"/>ing the Minority of that Son. The Bill of Excluſion is ſo weak a thing, that 'twill need all the props to ſup<g ref="char:EOLhyphen"/>port it. And a train of conſequences will follow it. What is told you of <hi>Scotland,</hi> is worth your conſi<g ref="char:EOLhyphen"/>deration; if <hi>Scotland</hi> be not conſenting to it, I know not how you'll obviate that. It unites the <hi>Papiſts</hi> of <hi>England</hi> and <hi>France,</hi> which we ought above all things to prevent.</p>
+               </sp>
+               <sp>
+                  <speaker>H. B.</speaker>
+                  <p>He may be convinced by his own Argument. For by ſo much the eaſier 'tis for the Princeſs of <hi>Orange</hi> to deſcent from her Authority of <hi>Regent,</hi> ſo much the leſs is our ſecurity And for <hi>Scotland,</hi> the ſame Intereſt that paſſes this Bill here will do it in <hi>Scotland,</hi> and in <hi>Ireland</hi> there is no need of it. By this Propoſition of the <hi>Regency,</hi> all Commiſſions Military by Sea and Land, Church and Law, are to go on in the Dukes name. And if all Diſpatches under the Great Seal muſt go under his Name, we can have no Security. The Oaths of Allegiance and Supremacy can be taken to none but him; and if that be granted, <hi>That 'tis unlawful to take up arms againſt the King or thoſe Commiſſionated by him</hi>— If that be not a true propoſition, I know not why that Declaration was made: It lies looſe to me, I muſt confeſs this <hi>Expedient</hi> ſeems to me, as if a man that ſcorched his Shins at the Fire, inſtead of removeing himſelf farther off, ſhould ſend for a Maſon to remove the Chimney back. I have heard from Lawyers, That if a man do make a Freehold-Leaſe to begin from the date thereof, 'tis void. It would be more ingenuous for the Gentlemen to ſay, If you do paſs the Bill to exclude the Duke, they will not be bound by it, they will have the Duke to Succeed; and then I wiſh they would tell us what will ſave the Proteſtant Religion. If the <hi>Duke</hi> come to the <hi>Crown,</hi> will Gentlemen chooſe either to be Papiſts, or burnt, or hang'd? I have no diſreſpect to the Duke if this Propoſal could keep out <hi>Popery:</hi> But if I am to leap over a River, I had rather have no Staff than a broken one. This can be no Security. If you leave it in the power of the Councel to make War and Peace, and diſpoſe of Money, Pray then where is the Govern<g ref="char:EOLhyphen"/>ment? Either they will be faithful, and keep the Law of Regency; or the King muſt be King but in the name, and they the Soul of the Government. I have heard the Expedients with patience, and have not been over-haſty to put the Queſtion. But I ſee no Remedy to ſave Religion, unleſs excluding the Duke; Therefore pray put the Queſtion for the Bill, &amp;c.</p>
+               </sp>
+               <stage>The Queſtion was ſtated.</stage>
+               <sp>
+                  <speaker>R. H.</speaker>
+                  <p>You have been moved to adde to the <hi>Duke</hi>'s <hi>Excluſion</hi> all other <hi>Popish Succeſſours.</hi> This is a Bill on purpoſe to Exclude the Duke only. You may Exclude all other <hi>Papiſts</hi> from <hi>Succeding,</hi> &amp;c. in another Bill by it ſelf. But I obſerve, that the way to looſe a Bill is to flog it.</p>
+               </sp>
+               <sp>
+                  <speaker>H, C.</speaker>
+                  <p>I ſhall only obſerve, that by the laſt Bill of Excluſion, if the Duke ſhould turn <hi>Proteſtant,</hi> He will be <hi>Excluded;</hi> and if the Princeſs of <hi>Orange</hi> turn <hi>Papiſt,</hi> ſhe is not <hi>Excluded.</hi> Vid. <hi>the Vote for the Bill in Print.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div type="days_proceedings">
+               <pb n="25" facs="tcp:172894:13"/>
+               <head>
+                  <hi>In the</hi> AFTERNOON.</head>
+               <head type="sub">
+                  <hi>An Account given of the Lords throwing out the</hi> IMPEACHMENT <hi>of</hi> Fitzharris.</head>
+               <sp>
+                  <speaker>Sir T. L.</speaker>
+                  <p>I See by the Lords refuſing this Impeachment, no farther uſe of a <hi>Parliament.</hi> They will be a Court, or not a Court, to ſerve a preſent purpoſe.—</p>
+               </sp>
+               <sp>
+                  <speaker>Sir W. J.</speaker>
+                  <p>In a matter ſo plain, and which concerns the very being of <hi>Parliaments,</hi> I am unwilling to make unneceſſary doubts. If an Action be brought in the Lower Courts, it does not hinder the Action be<g ref="char:EOLhyphen"/>ing brought in <hi>Weſtminſter-hall,</hi> if no Judgment upon it; and it holds the like in this caſe. <hi>Indictments</hi> were brought againſt the <hi>Lords</hi> in the <hi>Tower</hi> at <hi>Common Law,</hi> and yet was no <hi>Impediment</hi> to their <hi>Impeachment</hi> in the <hi>Lords Houſe;</hi> but here is no <hi>Indictment</hi> or proſecution brought againſt <hi>Fitzharris.</hi> We have an Inſtance freſh in Memory; The Lord Cheif-Juſtice <hi>Scroggs</hi> a Commoner, and not Indicted at Common-Law, yet the <hi>Lords</hi> without any ſcruple accepted his <hi>Impeachment;</hi> ſo that we need not ſpend our time to ſearch Preſidents. Perhaps the <hi>Lords Journals</hi> were not made up, but <hi>our Members</hi> have taken Notes out of the <hi>Minut-Book</hi>—by them we find the Lords have determined a great point. The <hi>Lords Spiritual</hi> as well as the <hi>Lords Temporal</hi> have Voted it, which we own not in this Judicature, nor I hope never ſhall; and we are denied Juſtice by the <hi>Lords Spiritual,</hi> who have no Right to Vote. This is doing a double act of Injuſtice And ſince the Lords have taken upon them to throw out the <hi>Impeachment</hi> of <hi>Fitzharris,</hi> let us Vote, <hi>That the Commons have a Right to Impeach in Capital Caſes; and that the Lords have denied us Juſtice, in refuſing the Impeachment.</hi> And after you have aſſerted your Priviledges, then draw up Reaſons for maintaining them. And if the <hi>Diſſolution</hi> of the <hi>Parliament</hi> follows, it's the fault of thoſe Men who will not hear our Reaſons, and in a Parliamentary way at a Conference ſhew how unwarrantable the Lords Actions have been in their way of proceeding.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir F. W.</speaker>
+                  <p>If this <hi>Impeachment</hi> of <hi>Fitzharris</hi> was of ſo ordinary a nature as a Monopoly, <hi>&amp;c.</hi> I ſhould not preſs upon this matter. But this is not an ordinary Accuſation, but that which relates to our <hi>Religion</hi> and <hi>Property;</hi> and how the <hi>Bishops</hi> come to ſtifle this, let God and the world judge. I would know if a man be Impeached by the <hi>Commons,</hi> and no Indictment againſt him, (only the <hi>Atturney-Gene<g ref="char:EOLhyphen"/>ral</hi> told the Lords, that the <hi>King</hi> gave Directions he ſhould be proſecuted, and no Record againſt him) whether this is a ground to deny our <hi>Impeachment?</hi> If the Lords will Vote that the Commons ſhall not Impeach him, they may as well Vote they ſhall not be Proſecutors; But yet we will be ſo. This is a <hi>New Plot</hi> againſt the <hi>Proteſtants,</hi> of which <hi>Fitzharris</hi> is accuſed, and we muſt not <hi>Impeach</hi> him; in this the Lords fairly ſay, We muſt not hear it. If this be the Caſe, I deſire you'ill come to ſome Vote. You are willing to diſcover the <hi>Plot</hi> if you could. If the <hi>Attourny-General</hi> had prepared a Proſecution in an <hi>Inferior Court,</hi> and they had proceeded to <hi>Judgment,</hi> then it is pleaded in Bar to the Judgment of a <hi>Superior Court.</hi> If our Time be ſhort, (as I believe it is) pray do not delay to come to ſome Reſolu<g ref="char:EOLhyphen"/>tion; if the Houſe be ſatisfied in it, pray make a Vote to aſſert your Right. A little while ago, when the <hi>Duke</hi> was preſented for a <hi>Papiſt,</hi> the <hi>Grand Jury</hi> you know was diſmiſs'd by Chief-Juſtice, <hi>&amp;c.</hi> This ſeems as if the Lords were bound in Honour to juſtifie the <hi>Judges</hi> Proceedings by their own. 'Tis a re<g ref="char:EOLhyphen"/>flection of weakneſs in a man, who doubts in a plain matter; and if no man doubts our <hi>Right,</hi> pray <hi>Vote</hi> it ſo.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir R. H.</speaker>
+                  <p>I am glad we are off from the great thing yeſterday. I cannot believe but that the Lords have Judgment enough to have cauſe for what they do, and in this cauſe of <hi>Fitzharris</hi> Impeachment. In this matter, Preſidents you need not ſearch. This of <hi>Fitzharris</hi> ſeemeth to me to be a more dange<g ref="char:EOLhyphen"/>rous breath than uſual, a breath fit to be ſtifled; there is ſomething in this more than ordinary. If there be ſo ſacred a reſpect to the comman Tryalls of <hi>England</hi> in <hi>Inferiour Courts,</hi> 'tis ſtrange that the <hi>Houſe of Commons</hi> ſhould be below a common Jury. If in the caſes of <hi>Skinner,</hi> and the fact done beyond the Sea, the Lords contended with the Commons about Judging it, though it was an original cauſe, this was no great value of the Law of <hi>England.</hi> But it ſeems they value <hi>Fitzharris</hi> to keep him from us. When I have heard in all the Speeches to day, that the <hi>Duke</hi> does not go ſingle, — and have heard ſo ex<g ref="char:EOLhyphen"/>cellent diſcourſes to day of that matter, I am loath to mingle my weakneſs.—But ſuch Councel as this, the King hereafter will have no cauſe to thank them, for involving him in the fatality of thoſe Coun<g ref="char:EOLhyphen"/>cels; as if they would make the Libel of <hi>Fitzharris</hi> the Copy of their Councels. <hi>Dangerfield</hi> was reputed a moſt infamous perſon, yet if he would ſpeak what he knew, nothing of mercy was to big for him; But
+<pb n="26" facs="tcp:172894:14"/>
+                     <hi>Fitzharris</hi> is a man of no infamy, and yet they hurry him away to the <hi>Tower,</hi> when he began to confeſs in <hi>Newgat.</hi> Are you ſo loſt, that you have no mercy left for the <hi>Proteſtant Religion?</hi> This is ſtrange, if the terror of his condition make him confeſs the whole <hi>Plot,</hi> &amp; he be taken out of our hands. We hear of other things, as that the <hi>French Ambaſſador</hi> had a hand in this <hi>Plot,</hi> which a Jury will not inquire into, their bu<g ref="char:EOLhyphen"/>ſineſs is only whether <hi>Fitzharris</hi> be guilty or not guilty of the indict<g ref="char:EOLhyphen"/>ment. I muſt confeſs, that with the carriage of this, I have enlarged my ſuſpition, for I cannot but ſuſpect unuſual ways. The worſt of Man<g ref="char:EOLhyphen"/>kind with all his Villanies about him, has been pardoned.— Is there in this any provocation given by us? but ſomething depends upon this Man, as well as upon the <hi>Bill</hi> to day. When you was told by <hi>Sec: J. He would not carry the Impeachment,</hi> &amp;c. and the Houſe would make no breach, by taking any ſevere courſe againſt him, but paſt it over with temper—ſure we muſt not lay down all proſecution of the Plot, and ſay, that the <hi>Proteſtant Religion</hi> ſhall have no mercy. <hi>Fitz<g ref="char:EOLhyphen"/>harris</hi> may merit mercy by confeſſion; and if his breath be ſtopt by the Lords, I am ſorry that people will ſay, <hi>if it were not for the Lords,</hi> Fitzharris <hi>might have diſcovered all the Conſpiracy, and the Proteſtant Religion might have been ſaved.</hi> I Move therefore, that in your Vote you will not only ſay, <hi>That denying this Impeachment,</hi> &amp;c. <hi>tends to the ſubverting the Conſtitution of Parliament, but of the Proteſtant Re<g ref="char:EOLhyphen"/>ligion alſo.</hi> &amp; I hope we ſhall proceed in this with the ſame calmneſſe of mind that every man does wiſh, who would not loſe his Religion.</p>
+               </sp>
+               <sp>
+                  <speaker>Serg. M.</speaker>
+                  <p>
+                     <hi>A Plot</hi> we all know has been on foot in <hi>England,</hi> and I am ſure in <hi>Ireland</hi> too, and what Arts and Crafts have been uſed to hide the Plot? It began with Murder and Perjury, and falſe Subornation &amp; this of <hi>Fitzharis</hi> is a ſecond part of that, We have ſent up an <hi>Impeach<g ref="char:EOLhyphen"/>ment againſt</hi> Fizharris, and the Lords deny to receive it. In effect they make us no Parliament if we are the proſecutors, and they will not heare our Accuſation, tis ſtrange, when their own Lives as well as ours are concerned in the <hi>Plot.</hi> The ſame day we Impeach <hi>Fitzharris,</hi> the Lords Vote, <hi>we ſhall not proſecute him.</hi> — Now when all is at ſtake, we muſt not proſecute, if this be ſo, <hi>Holland</hi> and <hi>Flanders</hi> muſt ſubmit to the <hi>French,</hi> and they run over all. This is a ſtrange Breach of priviledge, and tends to the Danger of the <hi>King's</hi> Perſon and Deſtruction of the <hi>Proteſtant Religion.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <pb n="27" facs="tcp:172894:14"/>
+                  <speaker>Sir T. P.</speaker>
+                  <p>This of <hi>Fitzharris</hi> is a conſiderable Confirmation of the Former <hi>Plot;</hi> I call it the <hi>Old Plot,</hi> but 'tis ſtill new upon us, This is a confirmation of the deſigne to <hi>Murder the King,</hi> and the <hi>Duke</hi> con<g ref="char:EOLhyphen"/>ſenting to deſtroy his own <hi>Brother</hi> and our <hi>King.</hi> I have often heard it wiſper'd, that this Plot was <hi>Madames</hi> Deſigne at <hi>Dover.</hi> 'Tis plain that Juſtice <hi>Godfrey</hi> was Murdered, and that the Army at <hi>Black heath</hi> was to deſtroy the Proteſtants in <hi>Holland,</hi> and to awe the City of <hi>Lon<g ref="char:EOLhyphen"/>don.</hi> When <hi>Fitzharris</hi> was in an Inclination to diſcover what he knew, and two or three Honourable <hi>Members</hi> went to Examine him, this man was fetch'd the next day to <hi>Whitehal,</hi> and ſent to the Tower and ſo we were deprived of all farther hopes of diſcovery. We have received the <hi>Information</hi> he gave, and now that the man may be in no capacity to diſcover farther, they ſtop his mouth. I move therefore that you will declare, <hi>That if any Judge, Juſtice, or Jury proceed upon him, and be found Guilty, that you will declare them Guilty of his murder, and be<g ref="char:EOLhyphen"/>trayers of the rights of the Commons of</hi> England. [Vid. <hi>the Printed Vote.]</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sir W. J.</speaker>
+                  <p>Now the Houſe has done as much as is fit for the Lords, but we do not know how <hi>Inferiour Courts</hi> will proceed; therefore I'll propoſe a Vote, <hi>That if any Inferiour Court ſhall proceed,</hi> &amp;c. [which paſt, Vid. <hi>the Print.</hi>] I would not give occaſion to people to ſay we do things in an extraordinary manner. 'Tis late, and pray let's Ad<g ref="char:EOLhyphen"/>journ.</p>
+               </sp>
+            </div>
+            <div type="days_proceedings">
+               <head>Munday <hi>March</hi> 28. 1681. <hi>The Bill for Excluding the</hi> Duke &amp;c. <hi>read.</hi>
+               </head>
+               <sp>
+                  <speaker>Sec. J.</speaker>
+                  <p>NO <hi>Bill</hi> was ever offred in <hi>Parliament</hi> of the like nature, ſo much againſt the Juſtice of the Nation; it condemns a Man never heard, and then 'tis a Law made <hi>ex poſt facto</hi>— Very extra<g ref="char:EOLhyphen"/>ordinary—againſt the Fundamental Juſtice of the Nation; and not only that, but againſt the wiſdom of the Nation, and will introduce a change of the Government. If the Duke will try to cut this Law with his Sword, if he overcome, he will have the ſame power to ſet aſide all Laws, both for <hi>Religion</hi> and <hi>Property;</hi> the power will be in the hands of the Conqueror, and certainly he will change the Government. 'Tis againſt the <hi>Religion</hi> of the Nation, which teaches to pay Obedi<g ref="char:EOLhyphen"/>ence to our Governours, whether good or bad, never ſo faulty or cri<g ref="char:EOLhyphen"/>minal. In primitive Chriſtianity, Obedience was paid to Heathen Princes, <hi>in licitis &amp; honeſtis;</hi> and we are not to do evil that good may
+<pb n="28" facs="tcp:172894:15"/>come of it, nor on the proſpect of any good. I ſhall ſay one word more, 'tis againſt the Oaths of the Nation, of Allegiance and Suprema<g ref="char:EOLhyphen"/>cy. The <hi>Duke</hi> is the <hi>Kings</hi> lawful Heir, if he have no Son, and in the Eye of the Law I am ſworn to him, and every Oath is in the ſenſe of the Law-giver. If this Diſinheriſon paſs now into a new Law, who diſpenſes me from that Oath to the King? poſſibly I am too tedi<g ref="char:EOLhyphen"/>ous, and not willingly heard.—If the <hi>Bill</hi> be againſt the Religion of the Nation, being obliged by Oaths, againſt the Government and the wiſdom of the Nation, I hope you will throw it out.</p>
+               </sp>
+               <sp>
+                  <speaker>T. B.</speaker>
+                  <p>Sec. J. has moved to throw out the <hi>Bill,</hi> and deſired to be heard patiently; I find no body ſecond him, pray let him go on and ſecond himſelf. <hi>Ordered a ſecond Reading.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sir W. J.</speaker>
+                  <p>Becauſe there has been much diſcourſe in the Town of the Votes that paſt on Saturday, upon the <hi>Lords Spiritual and Tem<g ref="char:EOLhyphen"/>poral rejecting the Impeachment,</hi> &amp;c. though I believe what is done will be made good, yet I would for the preſent, give the Nation all the ſatisfaction we can, that we are in the right. Amongſt our mis<g ref="char:EOLhyphen"/>fortunes in being called to this place, we are far remote from <hi>Records</hi> and Books; but yet I think it may be eaſy to prepare our ſelves to maintain what we have done. According to the little light I have, I find it the undoubted right of the Commons, not only to bring <hi>Im<g ref="char:EOLhyphen"/>peachments</hi> againſt Lords, but againſt Commons too. <hi>Magna Charta</hi> does not only ſay <hi>Per judicium parium</hi> &amp;c. but <hi>per Legem Terrae,</hi> &amp;c. Tryal by Parliament is <hi>Lex Terrae.</hi> I have heard of a Record, 4. <hi>E.</hi> 3. where when the <hi>E.</hi> of <hi>March.</hi>—</p>
+               </sp>
+               <p>
+                  <hi>The Black Rod came to command their Attendance in the Houſe of Lords, whither they immediately went, and the Lord Chancel<g ref="char:EOLhyphen"/>lour by Command of the King Diſſolved the Parliament.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:172894:15"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
